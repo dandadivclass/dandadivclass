@@ -1,4 +1,4 @@
-### Hi there 👋
+### Eai pessoal 👋
 
 Me chamo Dandara e atualmente estou estudando bastante para entrar na área de Desenvolvimento de software (Back-end). Aqui você pode encontrar meus exercícios de lógica de programação e em breve códigos em Java e orientados a objeto! 
     - 🌱 I’m currently learning Java + Cloud AWS
