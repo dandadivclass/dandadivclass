@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
   ## ⭐️ Hard Skills
 
-                                          No momento, estou estudando Java, SQL e aprimorando meus conceitos em GIT!
+  <p align="center">No momento, estou estudando Java, SQL e aprimorando meus conceitos em GIT!</p>
   
   </div>
 
