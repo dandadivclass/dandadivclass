@@ -17,42 +17,36 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/dandadivclass">
-    <img align="center" src="/capa_readme.jpg" width="600">
+    <!-- <img align="center" src="/capa_readme.jpg" width="600"> -->
   </a>
 </div>
 <br>
 
-<div align="center">
-  <!-- Work Links -->
+<div align-items justify-content="center">
     <a href="https://www.linkedin.com/in/andreinaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-db76c5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  <!-- <a href="https://www.linkedin.com/in/dandara-carvalho-047994203/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-db76c5?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdandara-carvalho-047994203%2F" target="_blank"></a> -->
-
-  <a href = "mailto:dandaracarvalhoestudos@gmail.com"><img src="https://img.shields.io/badge/Gmail-82bdac?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-  <!-- OTH Links -->
-  <a href ="https://open.spotify.com/playlist/43073bVFp9f9won5Zp277e?si=baeeed13e07341ff"><img src="https://img.shields.io/badge/Spotify-db76c5?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-
-  <!-- <a href="https://open.spotify.com/playlist/43073bVFp9f9won5Zp277e?si=baeeed13e07341ff" target="_blank"><img src="https://img.shields.io/badge/Spotify-db76c5?link=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F43073bVFp9f9won5Zp277e%3Fsi%3Dbaeeed13e07341ff"target="_blank"></a> -->
-
+    <a href = "mailto:dandaracarvalhoestudos@gmail.com"><img src="https://img.shields.io/badge/Gmail-82bdac?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href ="https://open.spotify.com/playlist/43073bVFp9f9won5Zp277e?si=baeeed13e07341ff"><img src="https://img.shields.io/badge/Spotify-db76c5?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 
-## ⭐️ Sobre mim
+  ## ⭐️ Sobre mim
 
-Estou cursando <b>Análise e Desenvolvimento de Sistemas</b> pela FIAP e atualmente sou <b>Estagiária em Suporte</b> na Alest Consultoria! Me apaxionei pela área de tecnologia por causa das possibilidades e dos desafios, hoje sinto que sou capaz de muita coisa quando me vejo estudando e resolvendo códigos. Estar na faculdade atrás de construir minha carreira tem feito minha mente mudar pra melhor. 
+  Estou cursando <b>Análise e Desenvolvimento de Sistemas</b> pela FIAP e atualmente sou <b>Estagiária em Suporte</b> na Alest Consultoria! Me apaxionei pela área de tecnologia por causa das possibilidades e dos desafios, hoje sinto que sou capaz de muita coisa quando me vejo estudando e resolvendo códigos. Estar na faculdade atrás de construir minha carreira tem feito minha mente mudar pra melhor. 
 
-Gosto <b>muito</b> de ouvir música, principalmente as animadas, minha banda preferida é The Neighbourhood! Também gosto muito de ler (terror e romances me agradam), assistir séries de comédia repetidamente e filmes que me façam pensar.
+  Gosto <b>muito</b> de ouvir música, principalmente as animadas, minha banda preferida é The Neighbourhood! Também gosto muito de ler (terror e romances me agradam), assistir séries de comédia repetidamente e filmes que me façam pensar.
+
+<br>
  
-## ⭐️ Hard Skills
-<!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
-<div align="center">
-  <!-- Java --> <img src="https://img.shields.io/badge/JAVA-82bdac?style=for-the-badge&logo=java&logoColor=white">
-  <!-- SQL --> <img src="https://img.shields.io/badge/MySQL-db76c5?style=for-the-badge&logo=mysql&logoColor=white">
-  <!-- GIT --> <img src="https://img.shields.io/badge/GIT-82bdac?style=for-the-badge&logo=Git&logoColor=white">
-  <!-- Python --> <img src="https://img.shields.io/badge/Python-db76c5?style=for-the-badge&logo=Python&logoColor=blue">
+  ## ⭐️ Hard Skills
+  <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dandadivclass&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> -->
+
+  <div align="center">
+    <!-- Java --> <img src="https://img.shields.io/badge/JAVA-82bdac?style=for-the-badge&logo=java&logoColor=white">
+    <!-- SQL --> <img src="https://img.shields.io/badge/MySQL-db76c5?style=for-the-badge&logo=mysql&logoColor=white">
+    <!-- GIT --> <img src="https://img.shields.io/badge/GIT-82bdac?style=for-the-badge&logo=Git&logoColor=white">
+    <!-- Python --> <img src="https://img.shields.io/badge/Python-db76c5?style=for-the-badge&logo=Python&logoColor=blue">
 
   <br>
-</div>
+  </div>
 
 
 <!-- 
