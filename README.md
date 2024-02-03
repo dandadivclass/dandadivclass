@@ -60,8 +60,11 @@ tokyonight: 82bdac Green | db76c5 Pink | 1A1B27 Dark
 -->
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dandadivclass&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dandadivclass&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dandadivclass&theme=tokyonight) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dandadivclass&theme=tokyonight) | 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dandadivclass&hide=Html&theme=tokyonight) | 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dandadivclass&theme=tokyonight) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dandadivclass&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=dandadivclass&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=82bdac&ring=db76c5&fire=db76c5&currStreakNum=db76c5&sideNums=db76c5&currStreakLabel=db76c5&sideLabels=db76c5&dates=82bdac) |
+<!-- | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dandadivclass&theme=tokyonight) |  -->
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=dandadivclass&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=82bdac&ring=db76c5&fire=db76c5&currStreakNum=db76c5&sideNums=db76c5&currStreakLabel=db76c5&sideLabels=db76c5&dates=82bdac) |
 | :-: | :-: |
