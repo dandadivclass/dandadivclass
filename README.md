@@ -35,9 +35,15 @@ Here are some ideas to get you started:
   Gosto <b>muito</b> de ouvir música, principalmente as animadas, minha banda preferida é The Neighbourhood! Também gosto muito de ler (terror e romances me agradam), assistir séries de comédia repetidamente e filmes que me façam pensar.
 
 <br>
- 
+  
+  <div> 
+  
   ## ⭐️ Hard Skills
-  <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dandadivclass&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> -->
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dandadivclass&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/">
+
+  No momento, estou estudando Java, SQL e aprimorando meus conceitos em GIT!
+  
+  </div>
 
   <div align="center">
     <!-- Java --> <img src="https://img.shields.io/badge/JAVA-82bdac?style=for-the-badge&logo=java&logoColor=white">
