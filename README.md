@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <!-- Work Links -->
-    <a href="https://www.linkedin.com/in/andreinaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%db76c5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/andreinaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-db76c5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   <!-- <a href="https://www.linkedin.com/in/dandara-carvalho-047994203/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-db76c5?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdandara-carvalho-047994203%2F" target="_blank"></a> -->
 
@@ -64,5 +64,5 @@ tokyonight: 82bdac Green | db76c5 Pink | 1A1B27 Dark
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dandadivclass&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dandadivclass&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dandadivclass&theme=tokyonight) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dandadivclass&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=dandadivclass&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dandadivclass&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=dandadivclass&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=82bdac&ring=db76c5&fire=db76c5&currStreakNum=db76c5&sideNums=db76c5&currStreakLabel=db76c5&sideLabels=db76c5&dates=82bdac) |
 | :-: | :-: |
