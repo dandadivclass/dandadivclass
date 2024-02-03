@@ -39,9 +39,8 @@ Here are some ideas to get you started:
   <div> 
   
   ## ⭐️ Hard Skills
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dandadivclass&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/">
 
-  No momento, estou estudando Java, SQL e aprimorando meus conceitos em GIT!
+                                          No momento, estou estudando Java, SQL e aprimorando meus conceitos em GIT!
   
   </div>
 
