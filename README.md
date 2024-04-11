@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
   ## ⭐️ Sobre mim
 
-  Estou cursando <b>Análise e Desenvolvimento de Sistemas</b> pela FIAP e atualmente sou <b>Estagiária em Suporte</b> na Alest Consultoria! Me apaixonei pela área de tecnologia por causa das possibilidades e dos desafios, hoje sinto que sou capaz de muita coisa quando me vejo estudando e resolvendo códigos. Estar na faculdade atrás de construir minha carreira tem feito minha mente mudar pra melhor. 
+  Estou cursando <b>Análise e Desenvolvimento de Sistemas</b> pela FIAP! Me apaixonei pela área de tecnologia por causa das possibilidades e dos desafios, hoje sinto que sou capaz de muita coisa quando me vejo estudando e resolvendo códigos. Estar na faculdade atrás de construir minha carreira tem feito minha mente mudar pra melhor. 
 
   Gosto <b>muito</b> de ouvir música, principalmente as animadas, minha banda preferida é The Neighbourhood! Também gosto muito de ler (terror e romances me agradam), assistir séries de comédia repetidamente e filmes que me façam pensar.
 
