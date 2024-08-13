@@ -28,12 +28,12 @@ Here are some ideas to get you started:
     <a href ="https://open.spotify.com/playlist/43073bVFp9f9won5Zp277e?si=baeeed13e07341ff"><img src="https://img.shields.io/badge/Spotify-db76c5?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 
-  ## ⭐️ Sobre mim
+  <!-- ## ⭐️ Sobre mim
 
   Estou cursando <b>Análise e Desenvolvimento de Sistemas</b> pela FIAP! Me apaixonei pela área de tecnologia por causa das possibilidades e dos desafios, hoje sinto que sou capaz de muita coisa quando me vejo estudando e resolvendo códigos. Estar na faculdade atrás de construir minha carreira tem feito minha mente mudar pra melhor. 
 
   Gosto <b>muito</b> de ouvir música, principalmente as animadas, minha banda preferida é The Neighbourhood! Também gosto muito de ler (terror e romances me agradam), assistir séries de comédia repetidamente e filmes que me façam pensar.
-
+-->
 <br>
   
   <div> 
